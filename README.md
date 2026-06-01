@@ -8,10 +8,8 @@ TODO: [游玩链接](https://navi-1218.github.io/shadow-mover/)
 
 ## 截图
 
-![游戏截图](<img width="605" height="667" alt="image" src="https://github.com/user-attachments/assets/a9493386-7b46-4036-80dc-0a40933e71d3" />
-)
+![游戏截图](<img width="605" height="667" alt="image" src="https://github.com/user-attachments/assets/6fd36c09-228b-40a3-9008-91c07989f8be" )
 
-TODO: 上传 GitHub Pages 后补充真实截图。
 
 ## 游戏简介
 
